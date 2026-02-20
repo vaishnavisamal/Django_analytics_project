@@ -55,7 +55,7 @@ This project demonstrates backend analytics aggregation and frontend map integra
 
 
 ### 📊 Analytics Dashboard
-![Analytics Dashboard](https://raw.githubusercontent.com/vaishnavisamal/Django_analytics_project/main/dashboard_page.png)
+![image alt](https://github.com/vaishnavisamal/Django_analytics_project/blob/main/dashboard%20page.png)
 ### 🗺️ Leaflet Map (India Boundary)
 ![image alt](https://github.com/vaishnavisamal/Django_analytics_project/blob/main/admin%20logi%20page.png)
 ### 🔌 API Response
