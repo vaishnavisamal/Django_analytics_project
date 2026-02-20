@@ -53,16 +53,6 @@ This project demonstrates backend analytics aggregation and frontend map integra
 
 ---
 
-## 🔌 API Endpoints
-
-### 📥 Log Event
-**POST** `/api/events/`
-```json
-{
-  "event_type": "button_click",
-  "button_name": "Subscribe"
-}
-
 
 ### 📊 Analytics Dashboard
 ![Analytics Dashboard](https://raw.githubusercontent.com/vaishnavisamal/Django_analytics_project/main/dashboard_page.png)
